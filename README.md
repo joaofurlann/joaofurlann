@@ -6,10 +6,10 @@ Eai 🤙🏽
 
 <p>Aqui estão alguns projetos já feitos.</p>
 
-<a href="https://joaofurlann.github.io/projeto-android/"> ✅ Projeto Android</a><br>
-<a href="https://joaofurlann.github.io/projeto-cordel/"> ✅ Projeto Cordel</a><br>
-<a href="https://joaofurlann.github.io/projeto-redesocial/"> ✅ Projeto Redes sociais</a><br>
-<a href="https://joaofurlann.github.io/projeto-pokedexdef/"> ✅ Projeto Pokedex</a><br>
+<a href="https://joaofurlann.github.io/projeto-android/" target="_blank"> ✅ Projeto Android</a><br>
+<a href="https://joaofurlann.github.io/projeto-cordel/" target="_blank"> ✅ Projeto Cordel</a><br>
+<a href="https://joaofurlann.github.io/projeto-redesocial/" target="_blank"> ✅ Projeto Redes sociais</a><br>
+<a href="https://joaofurlann.github.io/projeto-pokedexdef/" target="_blank"> ✅ Projeto Pokedex</a><br>
 
 <p><strong>Loading...</strong></p>
 
